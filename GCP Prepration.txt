@@ -1,0 +1,12 @@
+09/15/2019 - Links
+https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam#syllabus
+
+https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam/lecture/BvaXg/planning-and-configuring-network-resources
+
+https://console.cloud.google.com/appengine/start?project=customermanagement-253017
+
+https://cloud.google.com/products/calculator/#id=34b5d474-9287-4dc9-9ab0-f47aa3a70a73
+
+https://cloud.google.com/docs/overview/
+
+https://cloud.google.com/docs/compare/data-centers/networking

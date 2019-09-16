@@ -1,0 +1,13 @@
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\bin\Debug\netcoreapp2.1\GCP_ConsumerApplication.deps.json
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\bin\Debug\netcoreapp2.1\GCP_ConsumerApplication.runtimeconfig.json
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\bin\Debug\netcoreapp2.1\GCP_ConsumerApplication.runtimeconfig.dev.json
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\bin\Debug\netcoreapp2.1\GCP_ConsumerApplication.dll
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\bin\Debug\netcoreapp2.1\GCP_ConsumerApplication.pdb
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Debug\netcoreapp2.1\GCP_ConsumerApplication.csproj.CoreCompileInputs.cache
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Debug\netcoreapp2.1\GCP_ConsumerApplication.RazorAssemblyInfo.cache
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Debug\netcoreapp2.1\GCP_ConsumerApplication.RazorAssemblyInfo.cs
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Debug\netcoreapp2.1\GCP_ConsumerApplication.AssemblyInfoInputs.cache
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Debug\netcoreapp2.1\GCP_ConsumerApplication.AssemblyInfo.cs
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Debug\netcoreapp2.1\GCP_ConsumerApplication.RazorTargetAssemblyInfo.cache
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Debug\netcoreapp2.1\GCP_ConsumerApplication.dll
+C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Debug\netcoreapp2.1\GCP_ConsumerApplication.pdb

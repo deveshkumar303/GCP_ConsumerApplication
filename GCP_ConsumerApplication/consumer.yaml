@@ -1,6 +1,6 @@
 ﻿runtime: aspnetcore
 env: flex
-service: customermanagement_api
+service: customermanagement-api
 # This sample incurs costs to run on the App Engine flexible environment. 
 # The settings below are to reduce costs during testing and are not appropriate
 # for production use. For more information, see:
@@ -14,4 +14,4 @@ resources:
 
 env_variables:
   # The __ in My__Greeting will be translated to a : by ASP.NET.
-  My__Greeting: Hello AppEngine!
+  My__Greeting: Hello Consumer Api!

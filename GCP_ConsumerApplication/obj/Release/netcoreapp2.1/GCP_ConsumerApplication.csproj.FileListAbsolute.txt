@@ -11,4 +11,3 @@ C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Release\netcorea
 C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Release\netcoreapp2.1\GCP_ConsumerApplication.RazorTargetAssemblyInfo.cache
 C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Release\netcoreapp2.1\GCP_ConsumerApplication.dll
 C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Release\netcoreapp2.1\GCP_ConsumerApplication.pdb
-C:\Learning\GCP_ConsumerApplication\GCP_ConsumerApplication\obj\Release\netcoreapp2.1\GCP_ConsumerApplication.csprojAssemblyReference.cache

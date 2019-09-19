@@ -6,6 +6,7 @@ using GCP_ConsumerApplication.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
+
 namespace GCP_ConsumerApplication.Controllers
 {
 	[Route("api/[controller]")]
@@ -16,13 +17,13 @@ namespace GCP_ConsumerApplication.Controllers
 		[HttpGet]
 		public ActionResult<string> Get()
 		{
-			//ConsumerDetails[] consumerDetails = new ConsumerDetails[2];
-			//consumerDetails[0] = new ConsumerDetails { firstName = "Williams", lastName = "Smith", dateOfBirth = "01-Jan-1980" };
-			//consumerDetails[1] = new ConsumerDetails { firstName = "Steve", lastName = "Jobs", dateOfBirth = "22-Dec-1970" };
+			ConsumerDetails[] consumerDetails = new ConsumerDetails[2];
+			consumerDetails[0] = new ConsumerDetails { firstName = "Williams", lastName = "Smith", dateOfBirth = "01-Jan-1980" };
+			consumerDetails[1] = new ConsumerDetails { firstName = "Steve", lastName = "Jobs", dateOfBirth = "22-Dec-1970" };
 
-			//string response = JsonConvert.SerializeObject(consumerDetails, Formatting.None);
+			string response = JsonConvert.SerializeObject(consumerDetails, Formatting.None);
 
-			return "Welcome to ADS Info Systems, A new venture of advance technologies in digital world" ;
+			return response;
 		}
 
 		// GET api/values/5

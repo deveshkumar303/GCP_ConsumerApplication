@@ -10,3 +10,22 @@ https://cloud.google.com/products/calculator/#id=34b5d474-9287-4dc9-9ab0-f47aa3a
 https://cloud.google.com/docs/overview/
 
 https://cloud.google.com/docs/compare/data-centers/networking
+
+--09-24
+https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam#syllabus
+https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam/home/welcome
+
+https://www.coursera.org/lecture/preparing-cloud-associate-cloud-engineer-exam/lab-intro-kubernetes-engine-qwik-start-rCAXA
+
+--KUBNet Config and connect
+https://www.youtube.com/watch?v=yBOjWr24C6o
+
+Kubernet
+https://jee-appy.blogspot.com/2018/08/understanding-kubernetes-architecture.html
+
+-- Important notes for exam
+https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/
+
+
+-- Imporant notes from Courcers
+https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam/supplement/ZupBe/resource-links-for-module
